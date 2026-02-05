@@ -1,6 +1,6 @@
-import React from 'react'
+// import React from 'react'
 import './App.css'
-import FeedbackForm from './Components/FeedbackForm'
+import FeedbackForm from './Components/FeedbackForm.tsx'
 
 function App() {
   return (
