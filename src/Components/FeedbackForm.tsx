@@ -59,6 +59,9 @@ Rating: ${formData.rating}
 
   return (
     <form className="feedback-form" onSubmit={handleSubmit}>
+
+      <h2>Tell Us What You Think</h2>
+      <h2>Tell Us What You Think</h2>
       <h2>Tell Us What You Think</h2>
 
       <label>
